@@ -14,6 +14,7 @@ const Why = () => {
         Bad design inspires me ... bad design makes you stop and question stuff
         ... and sometimes, bad design might even be better - Virgil Abloh
       </pre>
+      <p>I want to be remembered for my books not my design. Created with React and React Router - Deployed to Vercel.</p>
       <button onClick={goToHome}>Home</button>
     </div>
   );
